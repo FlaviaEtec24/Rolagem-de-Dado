@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 
 int faces, sorteado;
 
